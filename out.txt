@@ -1,0 +1,6 @@
+                                     identity  VGG-Face_cosine
+0  D:/UDA/Tesis/deepface-detector/e/Emi_2.jpg         0.170893
+1  D:/UDA/Tesis/deepface-detector/e/Emi_6.jpg         0.173640
+2  D:/UDA/Tesis/deepface-detector/e/Emi_3.jpg         0.177517
+3  D:/UDA/Tesis/deepface-detector/e/Emi_4.jpg         0.227838
+4  D:/UDA/Tesis/deepface-detector/e/Emi_9.jpg         0.387831
